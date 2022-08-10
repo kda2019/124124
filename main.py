@@ -3,3 +3,4 @@ print(15)
 input()
 
 print('qwerty')
+print(666)
